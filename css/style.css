@@ -143,6 +143,10 @@ footer .redes img{
 	height: 50px;
 }
 
+.imagen{
+	width: 150px;
+	height: 150px;
+}
 /*Media Queries*/
 
 @media screen and (max-width: 800px){
